@@ -2,7 +2,7 @@
     {
         "merchant_id": 1,
         "name": "GardenGalore",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "GardenGalore offers a splendid array of gardening tools, outdoor decor, and plants for enthusiasts and novices alike. From blooming flowers to sturdy gardening equipment, we cultivate your passion for a vibrant garden.",
         "categories": [
             "Garden",
@@ -16,7 +16,7 @@
     {
         "merchant_id": 2,
         "name": "PetPamperPalace",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "At PetPamperPalace, we cater to your furry friends' needs with top-quality food, toys, grooming essentials, and more. From cozy beds to nutritious treats, we ensure your pets lead a happy and healthy life.",
         "categories": [
             "Pet",
@@ -29,7 +29,7 @@
     {
         "merchant_id": 3,
         "name": "HealthHaven",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "HealthHaven is your destination for wellness and vitality. Explore our range of supplements, fitness gear, and self-care products designed to enhance your journey toward a healthier lifestyle.",
         "categories": [
             "Health",
@@ -42,7 +42,7 @@
     {
         "merchant_id": 4,
         "name": "TechTrendz",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "TechTrendz brings you the latest in electronics and gadgets. From smartphones to smart home devices, we keep you at the forefront of technology with our diverse range of innovative products.",
         "categories": [
             "Electronics"
@@ -54,7 +54,7 @@
     {
         "merchant_id": 5,
         "name": "FashionFusion",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "FashionFusion blends elegance and style, offering a curated collection of apparel and jewelry. Discover the latest fashion trends and timeless accessories that complement your unique personality.",
         "categories": [
             "Apparel",
@@ -67,7 +67,7 @@
     {
         "merchant_id": 6,
         "name": "EcoEssentials",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "EcoEssentials is dedicated to sustainable living. Find a range of eco-friendly products, from reusable home goods to organic beauty essentials, fostering a greener lifestyle.",
         "categories": [
             "Eco-Friendly",
@@ -81,7 +81,7 @@
     {
         "merchant_id": 7,
         "name": "AdventureAwaits",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "At AdventureAwaits, we equip outdoor enthusiasts with top-tier gear and accessories. Explore our selection of camping, hiking, and adventure essentials for your next escapade.",
         "categories": [
             "Outdoor",
@@ -95,7 +95,7 @@
     {
         "merchant_id": 8,
         "name": "ArtisanAlley",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "ArtisanAlley celebrates craftsmanship with unique handmade creations. Discover a world of artisanal goods, from handcrafted jewelry to bespoke home decor, each telling its own story.",
         "categories": [
             "Art and Crafts",
@@ -109,7 +109,7 @@
     {
         "merchant_id": 9,
         "name": "MindfulMunchies",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "MindfulMunchies offers a delightful range of healthy snacks and organic delights. Satisfy your cravings guilt-free with our selection of nutritious and delicious treats.",
         "categories": [
             "Food and Beverage",
@@ -122,7 +122,7 @@
     {
         "merchant_id": 10,
         "name": "MelodicMoments",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "MelodicMoments is your music haven. Dive into our collection of instruments, records, and audio gear, ensuring every note creates harmonious and unforgettable moments.",
         "categories": [
             "Music",
@@ -136,7 +136,7 @@
     {
         "merchant_id": 11,
         "name": "CosmicCuriosities",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "Explore the universe of CosmicCuriosities, where imagination meets reality. Discover rare collectibles, unique vintage finds, and cosmic-inspired artifacts that defy the ordinary.",
         "categories": [
             "Vintage",
@@ -150,7 +150,7 @@
     {
         "merchant_id": 12,
         "name": "FitnessFusion",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "FitnessFusion is your fitness companion on the journey to a healthier you. Dive into our range of workout gear, supplements, and expert guidance, sculpting your ultimate fitness routine.",
         "categories": [
             "Health",
@@ -164,7 +164,7 @@
     {
         "merchant_id": 13,
         "name": "CulinaryCrafts",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "CulinaryCrafts celebrates the art of cooking with curated kitchenware and culinary delights. Elevate your culinary skills with our premium tools and gourmet ingredients.",
         "categories": [
             "Food and Beverage",
@@ -179,7 +179,7 @@
     {
         "merchant_id": 14,
         "name": "TechTots",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "TechTots introduces young minds to the wonders of technology. Explore our educational toys, STEM kits, and gadgets designed to ignite curiosity and learning.",
         "categories": [
             "Toys",
@@ -193,7 +193,7 @@
     {
         "merchant_id": 15,
         "name": "AutoArtistry",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "AutoArtistry blends automotive passion with style. Explore our collection of car accessories, performance parts, and automotive art, enhancing your ride's allure.",
         "categories": [
             "Automotive",
@@ -206,7 +206,7 @@
     {
         "merchant_id": 16,
         "name": "StyleSavvyHub",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "StyleSavvyHub is your fashion sanctuary, offering a blend of chic apparel and trendy accessories. Discover the latest styles curated to elevate your fashion game.",
         "categories": [
             "Apparel",
@@ -220,7 +220,7 @@
     {
         "merchant_id": 17,
         "name": "PlanetPals",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "PlanetPals is committed to eco-conscious living, providing sustainable products that nurture both you and the planet. Explore our range of earth-friendly essentials.",
         "categories": [
             "Eco-Friendly",
@@ -234,7 +234,7 @@
     {
         "merchant_id": 18,
         "name": "ArtfulAntiques",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "ArtfulAntiques treasures the timeless allure of the past. Discover unique antiques, vintage collectibles, and rare finds that add character to your space.",
         "categories": [
             "Vintage",
@@ -248,7 +248,7 @@
     {
         "merchant_id": 19,
         "name": "HealthyHarvests",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "HealthyHarvests offers a bounty of organic produce and nourishing foods to support your wellness journey. Taste the goodness of nature with our fresh selections.",
         "categories": [
             "Food and Beverage",
@@ -262,7 +262,7 @@
     {
         "merchant_id": 20,
         "name": "GadgetGalaxy",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "GadgetGalaxy is a universe of innovative tech wonders. Explore our constellation of cutting-edge gadgets and futuristic devices that redefine modern living.",
         "categories": [
             "Electronics",
@@ -276,7 +276,7 @@
     {
         "merchant_id": 21,
         "name": "TinyTotsTreasure",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "TinyTotsTreasure specializes in delightful baby products, from adorable clothing to educational toys, ensuring your little ones embark on a journey filled with comfort and learning.",
         "categories": [
             "Baby Products",
@@ -290,7 +290,7 @@
     {
         "merchant_id": 22,
         "name": "GourmetGalaxy",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "GourmetGalaxy invites you on a culinary voyage, offering artisanal ingredients, kitchenware, and chef-curated recipes that transform your cooking into gourmet adventures.",
         "categories": [
             "Food and Beverage",
@@ -304,7 +304,7 @@
     {
         "merchant_id": 23,
         "name": "OfficeOasis",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "OfficeOasis provides a haven for productive workdays with ergonomic furniture, stationery, and office supplies that transform your workspace into an oasis of efficiency.",
         "categories": [
             "Office Supplies",
@@ -317,7 +317,7 @@
     {
         "merchant_id": 24,
         "name": "JewelJunction",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "JewelJunction dazzles with exquisite jewelry collections, featuring timeless designs and modern trends that add a touch of elegance to every moment.",
         "categories": [
             "Jewelry",
@@ -330,7 +330,7 @@
     {
         "merchant_id": 25,
         "name": "SkillSetSolutions",
-        "logo": "",
+        "logo": "http://3.20.237.64:80/public/logo.png",
         "description": "SkillSetSolutions offers a spectrum of professional services, from online courses to expert consultations, empowering individuals to expand their skill sets and career horizons.",
         "categories": [
             "Services",

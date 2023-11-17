@@ -4,525 +4,524 @@
       "product_id": 1,
       "merchant_id": 1,
       "description": "Efficient and durable pruning shears for precise gardening and trimming tasks.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/garden.jpg"
     },
     {
       "name": "Outdoor Fountain",
       "product_id": 2,
       "merchant_id": 1,
       "description": "Decorative outdoor fountain to add elegance and serenity to your garden.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/garden.jpg"
     },
     {
       "name": "Rose Bush Seeds",
       "product_id": 3,
       "merchant_id": 1,
       "description": "High-quality rose bush seeds for cultivating vibrant and fragrant roses.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/garden.jpg"
     },
     {
       "name": "Plush Pet Bed",
       "product_id": 4,
       "merchant_id": 2,
       "description": "Luxurious and comfortable plush bed to pamper your furry friend with a cozy retreat.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/pet.jpg"
     },
     {
       "name": "Interactive Dog Toy",
       "product_id": 5,
       "merchant_id": 2,
       "description": "Engaging and interactive toy to keep your dog entertained and active.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/pet.jpg"
     },
     {
       "name": "Organic Cat Treats",
       "product_id": 6,
       "merchant_id": 2,
       "description": "Wholesome and organic treats to delight your feline companion.",
-      "image": ""
+      "image": "http://3.20.237.64:80/public/pet.jpg"
     },
     {
         "name": "Protein Powder",
         "product_id": 7,
         "merchant_id": 3,
         "description": "High-quality protein powder blend for post-workout recovery and muscle growth.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Yoga Mat",
         "product_id": 8,
         "merchant_id": 3,
         "description": "Premium yoga mat for comfortable and stable practice sessions.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Aromatherapy Essential Oils",
         "product_id": 9,
         "merchant_id": 3,
         "description": "Aromatic essential oils for relaxation and creating a calming atmosphere.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Wireless Earbuds",
         "product_id": 10,
         "merchant_id": 4,
         "description": "Sleek and high-quality wireless earbuds for immersive audio experiences.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "Smart Home Assistant",
         "product_id": 11,
         "merchant_id": 4,
         "description": "Intelligent home assistant to streamline daily tasks and control smart devices.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "High-Resolution Webcam",
         "product_id": 12,
         "merchant_id": 4,
         "description": "Crystal-clear high-resolution webcam for video conferencing and streaming.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "Cocktail Dress",
         "product_id": 13,
         "merchant_id": 5,
         "description": "Elegant and fashionable cocktail dress for special occasions and events.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/apparel.jpg"
       },
       {
         "name": "Statement Necklace",
         "product_id": 14,
         "merchant_id": 5,
         "description": "Eye-catching statement necklace to accentuate your style and attire.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/apparel.jpg"
       },
       {
         "name": "Leather Handbag",
         "product_id": 15,
         "merchant_id": 5,
         "description": "Classy and versatile leather handbag for everyday use and sophistication.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/apparel.jpg"
       },
       {
         "name": "Bamboo Cutting Board Set",
         "product_id": 16,
         "merchant_id": 6,
         "description": "Durable and eco-friendly bamboo cutting board set for kitchen convenience.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Reusable Stainless Steel Straws",
         "product_id": 17,
         "merchant_id": 6,
         "description": "Eco-friendly and reusable stainless steel straws for sustainable sipping.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Organic Coconut Oil Soap",
         "product_id": 18,
         "merchant_id": 6,
         "description": "Nourishing and organic coconut oil soap for gentle and moisturizing cleansing.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Camping Tent",
         "product_id": 19,
         "merchant_id": 7,
         "description": "Durable and weather-resistant camping tent for outdoor adventures.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/outdoor.jpg"
       },
       {
         "name": "Hiking Backpack",
         "product_id": 20,
         "merchant_id": 7,
         "description": "Spacious and ergonomic hiking backpack for comfortable trekking.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/outdoor.jpg"
       },
       {
         "name": "Portable Water Purifier",
         "product_id": 21,
         "merchant_id": 7,
         "description": "Compact and efficient portable water purifier for clean drinking water.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/outdoor.jpg"
       },
       {
         "name": "Hand-Painted Ceramic Mug",
         "product_id": 22,
         "merchant_id": 8,
         "description": "Unique and hand-painted ceramic mug for delightful tea or coffee moments.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/craft.jpg"
       },
       {
         "name": "Handcrafted Wooden Jewelry Box",
         "product_id": 23,
         "merchant_id": 8,
         "description": "Exquisite handcrafted wooden jewelry box to store and display accessories.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/craft.jpg"
       },
       {
         "name": "Handwoven Throw Blanket",
         "product_id": 24,
         "merchant_id": 8,
         "description": "Warm and cozy handwoven throw blanket for comfort and style.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/craft.jpg"
       },
       {
         "name": "Gluten-Free Snack Pack",
         "product_id": 25,
         "merchant_id": 9,
         "description": "Assorted gluten-free snacks for guilt-free and delicious munching.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Organic Green Tea",
         "product_id": 26,
         "merchant_id": 9,
         "description": "Premium organic green tea for a refreshing and healthy beverage.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Raw Almond Butter",
         "product_id": 27,
         "merchant_id": 9,
         "description": "Smooth and nutritious raw almond butter for healthy snacking.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Electric Guitar",
         "product_id": 28,
         "merchant_id": 10,
         "description": "Classic and versatile electric guitar for melodic music creation.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/music.jpg"
       },
       {
         "name": "Vinyl Record Player",
         "product_id": 29,
         "merchant_id": 10,
         "description": "Vintage-style vinyl record player for nostalgic and high-quality music playback.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/music.jpg"
       },
       {
         "name": "MIDI Keyboard Controller",
         "product_id": 30,
         "merchant_id": 10,
         "description": "Versatile MIDI keyboard controller for producing and composing music.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/music.jpg"
       },
       {
         "name": "Vintage Space-themed Posters",
         "product_id": 31,
         "merchant_id": 11,
         "description": "Authentic and collectible vintage space-themed posters for decor.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/hobby.jpg"
       },
       {
         "name": "Collectible Star Wars Figures",
         "product_id": 32,
         "merchant_id": 11,
         "description": "Rare and collectible Star Wars action figures for enthusiasts and fans.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/hobby.jpg"
       },
       {
         "name": "Crystal Ball with Stand",
         "product_id": 33,
         "merchant_id": 11,
         "description": "Mystical and decorative crystal ball with an elegant stand for ambiance.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/hobby.jpg"
       },
       {
         "name": "Resistance Bands Set",
         "product_id": 34,
         "merchant_id": 12,
         "description": "Diverse and effective resistance bands set for versatile workout routines.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/sport.jpg"
       },
       {
         "name": "Fitness Tracker Watch",
         "product_id": 35,
         "merchant_id": 12,
         "description": "Smart and feature-rich fitness tracker watch for monitoring activities.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/sport.jpg"
       },
       {
         "name": "Yoga Blocks and Strap Set",
         "product_id": 36,
         "merchant_id": 12,
         "description": "Supportive and durable yoga blocks and strap set for yoga practitioners.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/sport.jpg"
       },
       {
         "name": "Cast Iron Skillet",
         "product_id": 37,
         "merchant_id": 13,
         "description": "Versatile and durable cast iron skillet for cooking a variety of dishes.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/home.jpg"
       },
       {
         "name": "Chef's Knife Set",
         "product_id": 38,
         "merchant_id": 13,
         "description": "Professional-grade chef's knife set for precise and efficient meal preparation.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/home.jpg"
       },
       {
         "name": "Silicone Baking Mats",
         "product_id": 39,
         "merchant_id": 13,
         "description": "Non-stick and reusable silicone baking mats for hassle-free baking.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/home.jpg"
       },
       {
         "name": "Educational Robot Kit",
         "product_id": 40,
         "merchant_id": 14,
         "description": "Interactive and educational robot kit for kids to learn programming and robotics.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/education.jpg"
       },
       {
         "name": "Interactive Learning Tablet",
         "product_id": 41,
         "merchant_id": 14,
         "description": "Engaging and educational tablet for children's learning and entertainment.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/education.jpg"
       },
       {
         "name": "STEM Building Blocks Set",
         "product_id": 42,
         "merchant_id": 14,
         "description": "STEM-focused building blocks set for hands-on learning and creativity.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/education.jpg"
       },
       {
         "name": "Car Seat Covers",
         "product_id": 43,
         "merchant_id": 15,
         "description": "Stylish and protective car seat covers for enhancing comfort and style.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/automotive.jpg"
       },
       {
         "name": "Automotive Detailing Kit",
         "product_id": 44,
         "merchant_id": 15,
         "description": "Comprehensive automotive detailing kit for keeping your car spotless.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/automotive.jpg"
       },
       {
         "name": "Vintage Car Art Print",
         "product_id": 45,
         "merchant_id": 15,
         "description": "Decorative and nostalgic vintage car art print for automotive enthusiasts.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/automotive.jpg"
       },
       {
         "name": "Trendy Sunglasses",
         "product_id": 46,
         "merchant_id": 16,
         "description": "Fashionable and trendy sunglasses for stylish and eye-protective wear.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/jewelry.jpg"
       },
       {
         "name": "Designer Scarf",
         "product_id": 47,
         "merchant_id": 16,
         "description": "Elegant and versatile scarf to elevate your outfit with style.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/apparel.jpg"
       },
       {
         "name": "Leather Wallet",
         "product_id": 48,
         "merchant_id": 16,
         "description": "Trendy and fashionable wallet for a chic and confident look.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/apparel.jpg"
       },
       {
         "name": "Eco-Friendly Bamboo Toothbrush",
         "product_id": 49,
         "merchant_id": 17,
         "description": "Gentle and eco-friendly bamboo toothbrush.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Solar-Powered LED Garden Lights",
         "product_id": 50,
         "merchant_id": 17,
         "description": "Solar, eco, garden lights",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Organic Cotton Towel Set",
         "product_id": 51,
         "merchant_id": 17,
         "description": "Lovely towel set, soft to the touch.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/eco.jpg"
       },
       {
         "name": "Vintage Brass Candlestick Holders",
         "product_id": 52,
         "merchant_id": 18,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/vintage.jpg"
       },
       {
         "name": "Antique Porcelain Tea Set",
         "product_id": 53,
         "merchant_id": 18,
         "description": "Exquisite and timeless antique set for vintage charm.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/vintage.jpg"
       },
       {
         "name": "Rare Vintage Vinyl Records",
         "product_id": 54,
         "merchant_id": 18,
         "description": "Rare and collectible vinyl from various eras and origins for numismatists.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/vintage.jpg"
       },
       {
         "name": "Fresh Organic Fruit Box",
         "product_id": 55,
         "merchant_id": 19,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Cold-Pressed Juice Cleanse",
         "product_id": 56,
         "merchant_id": 19,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Quinoa and Kale Salad Mix",
         "product_id": 57,
         "merchant_id": 19,
         "description": "Fine and natural almond flour for gluten-free and healthy baking.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/health.jpg"
       },
       {
         "name": "Smart Home Security Camera System",
         "product_id": 58,
         "merchant_id": 20,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "Virtual Reality Headset",
         "product_id": 59,
         "merchant_id": 20,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "Foldable Electric Scooter",
         "product_id": 60,
         "merchant_id": 20,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/electronics.jpg"
       },
       {
         "name": "Organic Cotton Baby Onesies Set",
         "product_id": 61,
         "merchant_id": 21,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/baby.jpg"
       },
       {
         "name": "Montessori Wooden Toy Set",
         "product_id": 62,
         "merchant_id": 21,
         "description": "Gentle and ultra-soft baby set for cozy and comforting moments.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/baby.jpg"
       },
       {
         "name": "Interactive Baby Book",
         "product_id": 63,
         "merchant_id": 21,
         "description": "Stimulating and educational baby.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/baby.jpg"
       },
       {
         "name": "Artisanal Olive Oil Set",
         "product_id": 64,
         "merchant_id": 22,
-        "description": "This is a description - lorem ipsum.",
-        "image": ""
+        "description": "",
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Professional Chef's Knife Set",
         "product_id": 65,
         "merchant_id": 22,
         "description": "Versatile and ergonomic adjustable knife set.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Molecular Gastronomy Kit",
         "product_id": 66,
         "merchant_id": 22,
         "description": "Eco-friendly and durable organic...",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/food.jpg"
       },
       {
         "name": "Ergonomic Office Chair",
         "product_id": 67,
         "merchant_id": 23,
         "description": "Comfortable and supportive ergonomic office chair for long hours of seated work.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/office.jpg"
       },
       {
         "name": "Wireless Keyboard and Mouse Set",
         "product_id": 68,
         "merchant_id": 20,
         "description": "Convenient and efficient wireless keyboard and mouse set for seamless computing.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/office.jpg"
       },
       {
         "name": "Desk Organizer Kit",
         "product_id": 69,
         "merchant_id": 23,
         "description": "Comprehensive desk organizer kit for a clutter-free and organized workspace.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/office.jpg"
       },
       {
         "name": "Diamond Stud Earrings",
         "product_id": 70,
         "merchant_id": 24,
         "description": "Classic and elegant diamond stud earrings for timeless grace.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/jewelry.jpg"
       },
       {
         "name": "Sterling Silver Bracelet",
         "product_id": 71,
         "merchant_id": 24,
         "description": "Refined and versatile sterling silver bracelet for everyday elegance.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/jewelry.jpg"
       },
       {
         "name": "Birthstone Pendant Necklace",
         "product_id": 72,
         "merchant_id": 24,
         "description": "Personalized birthstone pendant necklace for meaningful accessorizing.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/jewelry.jpg"
       },
       {
         "name": "Online Marketing Course Bundle",
         "product_id": 73,
         "merchant_id": 25,
         "description": "Comprehensive online marketing course bundle for mastering marketing strategies.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/service.jpg"
       },
       {
         "name": "Career Counseling Session",
         "product_id": 74,
         "merchant_id": 25,
         "description": "Professional and insightful career counseling session for career growth.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/service.jpg"
       },
       {
         "name": "Software Development Bootcamp Subscription",
         "product_id": 75,
         "merchant_id": 25,
         "description": "Intensive and hands-on software development bootcamp subscription for coding skills.",
-        "image": ""
+        "image": "http://3.20.237.64:80/public/service.jpg"
       }
-
   ]
