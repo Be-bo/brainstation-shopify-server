@@ -1,0 +1,343 @@
+[
+    {
+        "merchant_id": 1,
+        "name": "GardenGalore",
+        "logo": "",
+        "description": "GardenGalore offers a splendid array of gardening tools, outdoor decor, and plants for enthusiasts and novices alike. From blooming flowers to sturdy gardening equipment, we cultivate your passion for a vibrant garden.",
+        "categories": [
+            "Garden",
+            "Outdoor",
+            "Home"
+        ],
+        "email": "info@gardengalore.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 2,
+        "name": "PetPamperPalace",
+        "logo": "",
+        "description": "At PetPamperPalace, we cater to your furry friends' needs with top-quality food, toys, grooming essentials, and more. From cozy beds to nutritious treats, we ensure your pets lead a happy and healthy life.",
+        "categories": [
+            "Pet",
+            "Home"
+        ],
+        "email": "contact@petpamperpalace.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 3,
+        "name": "HealthHaven",
+        "logo": "",
+        "description": "HealthHaven is your destination for wellness and vitality. Explore our range of supplements, fitness gear, and self-care products designed to enhance your journey toward a healthier lifestyle.",
+        "categories": [
+            "Health",
+            "Beauty"
+        ],
+        "email": "support@healthhaven.com",
+        "partnerships": [1, 2, 3],
+        "partnership_suggestions": [9, 10, 12, 13, 23]
+    },
+    {
+        "merchant_id": 4,
+        "name": "TechTrendz",
+        "logo": "",
+        "description": "TechTrendz brings you the latest in electronics and gadgets. From smartphones to smart home devices, we keep you at the forefront of technology with our diverse range of innovative products.",
+        "categories": [
+            "Electronics"
+        ],
+        "email": "hello@techtrendz.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 5,
+        "name": "FashionFusion",
+        "logo": "",
+        "description": "FashionFusion blends elegance and style, offering a curated collection of apparel and jewelry. Discover the latest fashion trends and timeless accessories that complement your unique personality.",
+        "categories": [
+            "Apparel",
+            "Jewelry"
+        ],
+        "email": "info@fashionfusion.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 6,
+        "name": "EcoEssentials",
+        "logo": "",
+        "description": "EcoEssentials is dedicated to sustainable living. Find a range of eco-friendly products, from reusable home goods to organic beauty essentials, fostering a greener lifestyle.",
+        "categories": [
+            "Eco-Friendly",
+            "Home",
+            "Beauty"
+        ],
+        "email": "info@ecoessentials.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 7,
+        "name": "AdventureAwaits",
+        "logo": "",
+        "description": "At AdventureAwaits, we equip outdoor enthusiasts with top-tier gear and accessories. Explore our selection of camping, hiking, and adventure essentials for your next escapade.",
+        "categories": [
+            "Outdoor",
+            "Sports",
+            "Travel"
+        ],
+        "email": "hello@adventureawaits.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 8,
+        "name": "ArtisanAlley",
+        "logo": "",
+        "description": "ArtisanAlley celebrates craftsmanship with unique handmade creations. Discover a world of artisanal goods, from handcrafted jewelry to bespoke home decor, each telling its own story.",
+        "categories": [
+            "Art and Crafts",
+            "Handmade",
+            "Home"
+        ],
+        "email": "contact@artisanalley.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 9,
+        "name": "MindfulMunchies",
+        "logo": "",
+        "description": "MindfulMunchies offers a delightful range of healthy snacks and organic delights. Satisfy your cravings guilt-free with our selection of nutritious and delicious treats.",
+        "categories": [
+            "Food and Beverage",
+            "Health"
+        ],
+        "email": "support@mindfulmunchies.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 10,
+        "name": "MelodicMoments",
+        "logo": "",
+        "description": "MelodicMoments is your music haven. Dive into our collection of instruments, records, and audio gear, ensuring every note creates harmonious and unforgettable moments.",
+        "categories": [
+            "Music",
+            "Hobby",
+            "Health"
+        ],
+        "email": "info@melodicmoments.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 11,
+        "name": "CosmicCuriosities",
+        "logo": "",
+        "description": "Explore the universe of CosmicCuriosities, where imagination meets reality. Discover rare collectibles, unique vintage finds, and cosmic-inspired artifacts that defy the ordinary.",
+        "categories": [
+            "Vintage",
+            "Collectibles",
+            "Art and Crafts"
+        ],
+        "email": "info@cosmiccuriosities.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 12,
+        "name": "FitnessFusion",
+        "logo": "",
+        "description": "FitnessFusion is your fitness companion on the journey to a healthier you. Dive into our range of workout gear, supplements, and expert guidance, sculpting your ultimate fitness routine.",
+        "categories": [
+            "Health",
+            "Sports",
+            "Fitness"
+        ],
+        "email": "hello@fitnessfusion.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 13,
+        "name": "CulinaryCrafts",
+        "logo": "",
+        "description": "CulinaryCrafts celebrates the art of cooking with curated kitchenware and culinary delights. Elevate your culinary skills with our premium tools and gourmet ingredients.",
+        "categories": [
+            "Food and Beverage",
+            "Art and Crafts",
+            "Home",
+            "Health"
+        ],
+        "email": "support@culinarycrafts.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 14,
+        "name": "TechTots",
+        "logo": "",
+        "description": "TechTots introduces young minds to the wonders of technology. Explore our educational toys, STEM kits, and gadgets designed to ignite curiosity and learning.",
+        "categories": [
+            "Toys",
+            "Games",
+            "Education"
+        ],
+        "email": "info@techtots.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 15,
+        "name": "AutoArtistry",
+        "logo": "",
+        "description": "AutoArtistry blends automotive passion with style. Explore our collection of car accessories, performance parts, and automotive art, enhancing your ride's allure.",
+        "categories": [
+            "Automotive",
+            "Art and Crafts"
+        ],
+        "email": "contact@autoartistry.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 16,
+        "name": "StyleSavvyHub",
+        "logo": "",
+        "description": "StyleSavvyHub is your fashion sanctuary, offering a blend of chic apparel and trendy accessories. Discover the latest styles curated to elevate your fashion game.",
+        "categories": [
+            "Apparel",
+            "Fashion",
+            "Accessories"
+        ],
+        "email": "info@stylesavvyhub.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 17,
+        "name": "PlanetPals",
+        "logo": "",
+        "description": "PlanetPals is committed to eco-conscious living, providing sustainable products that nurture both you and the planet. Explore our range of earth-friendly essentials.",
+        "categories": [
+            "Eco-Friendly",
+            "Health",
+            "Home"
+        ],
+        "email": "hello@planetpals.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 18,
+        "name": "ArtfulAntiques",
+        "logo": "",
+        "description": "ArtfulAntiques treasures the timeless allure of the past. Discover unique antiques, vintage collectibles, and rare finds that add character to your space.",
+        "categories": [
+            "Vintage",
+            "Art and Crafts",
+            "Collectibles"
+        ],
+        "email": "info@artfulantiques.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 19,
+        "name": "HealthyHarvests",
+        "logo": "",
+        "description": "HealthyHarvests offers a bounty of organic produce and nourishing foods to support your wellness journey. Taste the goodness of nature with our fresh selections.",
+        "categories": [
+            "Food and Beverage",
+            "Health",
+            "Organic"
+        ],
+        "email": "support@healthyharvests.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 20,
+        "name": "GadgetGalaxy",
+        "logo": "",
+        "description": "GadgetGalaxy is a universe of innovative tech wonders. Explore our constellation of cutting-edge gadgets and futuristic devices that redefine modern living.",
+        "categories": [
+            "Electronics",
+            "Gadgets",
+            "Technology"
+        ],
+        "email": "info@gadgetgalaxy.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 21,
+        "name": "TinyTotsTreasure",
+        "logo": "",
+        "description": "TinyTotsTreasure specializes in delightful baby products, from adorable clothing to educational toys, ensuring your little ones embark on a journey filled with comfort and learning.",
+        "categories": [
+            "Baby Products",
+            "Toys",
+            "Education"
+        ],
+        "email": "info@tinytotstreasure.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 22,
+        "name": "GourmetGalaxy",
+        "logo": "",
+        "description": "GourmetGalaxy invites you on a culinary voyage, offering artisanal ingredients, kitchenware, and chef-curated recipes that transform your cooking into gourmet adventures.",
+        "categories": [
+            "Food and Beverage",
+            "Artisanal",
+            "Health"
+        ],
+        "email": "hello@gourmetgalaxy.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 23,
+        "name": "OfficeOasis",
+        "logo": "",
+        "description": "OfficeOasis provides a haven for productive workdays with ergonomic furniture, stationery, and office supplies that transform your workspace into an oasis of efficiency.",
+        "categories": [
+            "Office Supplies",
+            "Health"
+        ],
+        "email": "info@officeoasis.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 24,
+        "name": "JewelJunction",
+        "logo": "",
+        "description": "JewelJunction dazzles with exquisite jewelry collections, featuring timeless designs and modern trends that add a touch of elegance to every moment.",
+        "categories": [
+            "Jewelry",
+            "Apparel"
+        ],
+        "email": "info@jeweljunction.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    },
+    {
+        "merchant_id": 25,
+        "name": "SkillSetSolutions",
+        "logo": "",
+        "description": "SkillSetSolutions offers a spectrum of professional services, from online courses to expert consultations, empowering individuals to expand their skill sets and career horizons.",
+        "categories": [
+            "Services",
+            "Education"
+        ],
+        "email": "hello@skillsetsolutions.com",
+        "partnerships": [],
+        "partnership_suggestions": []
+    }
+]

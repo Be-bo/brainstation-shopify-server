@@ -1,0 +1,32 @@
+[
+  {
+    "partnership_id": 1,
+    "status": "Pending",
+    "name": "Health Haven x Planet Pals",
+    "image": "",
+    "merchant_ids": [
+      3,
+      17
+    ]
+  },
+  {
+    "partnership_id": 2,
+    "status": "Active",
+    "name": "Health Haven x Healthy Harvests",
+    "image": "",
+    "merchant_ids": [
+      3,
+      19
+    ]
+  },
+  {
+    "partnership_id": 3,
+    "status": "Active",
+    "name": "Health Haven x Gourmet Galaxy",
+    "image": "",
+    "merchant_ids": [
+      3,
+      22
+    ]
+  }
+]
