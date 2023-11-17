@@ -37,6 +37,20 @@ app.get('/merchants/:merchantId', async (req, res) => {
 });
 
 
+// MARK: Get All Merchants Info
+app.get('/merchants', async (req, res) => {
+    try{
+        const merchantsJson = await fs.promises.readFile(merchantsJsonPath, 'utf-8');
+        const parsedMerchants = JSON.parse(merchantsJson);
+        console.log('Successfully returned GET all merchants.');
+        res.status(200).json(parsedMerchants);
+    }catch(error){
+        console.log(error);
+        res.status(500).json({error});
+    }
+});
+
+
 // MARK: Get Merchant Categories
 app.get('/categories', async (req, res) => {
     try{
